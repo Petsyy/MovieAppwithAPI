@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+
+Movie App using API
+
 # movie-app
 =======
 # React + Vite
