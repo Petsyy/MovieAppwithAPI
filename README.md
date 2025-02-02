@@ -1,5 +1,7 @@
 
-# movie-app using api
+Movie App with API
+
+# movie-app
 =======
 # React + Vite
 
